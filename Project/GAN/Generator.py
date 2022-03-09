@@ -28,8 +28,6 @@ class Generator(nn.Module):
     -------------
         Linear (512, FINAL_OUTPUT_SHAPE, bias=False )
         Tanh()
-    
-    
     """
     
     def __init__(self, config_dict):
