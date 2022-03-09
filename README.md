@@ -1,4 +1,10 @@
+# Human Computer Interaction Project 
+
 This is the repository for the class Human Computer Interaction (HCI) for the Masters in Artificial Intelligence at the UPC. 
+
+
+
+## Project Description 
 
 
 The project that will be presented in this class consists of the following idea: 
